@@ -1,0 +1,13 @@
+ OpenWeather:
+  outputs:
+    dev:
+      account: #Snowflake User usually account_identifier.<region like us-east-1>
+      database: #Snowflake DB
+      password: #Snowflake Password
+      role: #Snowflake Role
+      schema: #Snowflake schema
+      threads: 2
+      type: snowflake
+      user: 
+      warehouse: #Snowflake DW
+  target: dev

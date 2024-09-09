@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: WEATHER
+    database: OPENWEATHER      # e.g., weather_data
+    schema: WEATHER         # e.g., public
+    tables:
+      - name: stg_weather_data     # This is your existing table in Snowflake
