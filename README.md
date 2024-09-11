@@ -14,6 +14,7 @@ This project is designed to extract weather data from the OpenWeatherMap API, tr
 6. [Screenshots](#screenshots)
    - Airflow DAG
    - Snowflake
+   - Tableau
 ---
 
 ## 🚀 Project Overview
