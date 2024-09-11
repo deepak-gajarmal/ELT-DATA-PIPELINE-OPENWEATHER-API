@@ -110,3 +110,9 @@ Data_Pipeline_Project/
 - Snowflake
 
 ![Snowflake](Screenshots/Snowflake.png)
+
+- Tableau
+
+![Tableau](Screenshots/Tableau.png)
+
+  
