@@ -25,7 +25,7 @@ This project collects real-time weather data in 4 time intervals throughout a 24
 
 ## 🖥️ Architecture Diagram
 
-![Architecture Diagram](Architecture.png)
+![Architecture Diagram](Screenshots/Architecture.png)
 ---
 
 ## 🛠️ Technologies Used
